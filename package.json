@@ -1,7 +1,7 @@
 {
   "name": "generator-pybuilder",
   "version": "1.0.0",
-  "description": "Yeoman generator for Python pyBuilder projects",
+  "description": "Yeoman generator for Python PyBuilder projects",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "stefan.dimitrov/generator-pybuilder",
@@ -20,7 +20,9 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "python",
+    "pybuilder"
   ],
   "dependencies": {
     "yeoman-generator": "~0.16.0",
